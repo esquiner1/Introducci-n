@@ -1,0 +1,5 @@
+# vamos a instalar todos nuestros paquetes 
+# esto es crontol de versiones nos permite poder trabajar el mismo proyecto y siempre tener los mismo resultados
+# pr que todos vamos a tener las mismas versiones.
+
+django==4.0.2 #esto lo tengo que ver en django pypi 
